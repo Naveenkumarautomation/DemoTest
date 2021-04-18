@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-04-18T17:36:20 IST" name="Default suite" finished-at="2021-04-18T17:38:17 IST" duration-ms="117514">
+    <groups>
+    </groups>
+    <test started-at="2021-04-18T17:36:20 IST" name="Default test" finished-at="2021-04-18T17:38:17 IST" duration-ms="117514">
+      <class name="com.symbion.shop.testcases.orderStatusTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.symbion.shop.testcases.orderStatusTest@333291e3]" started-at="2021-04-18T17:36:20 IST" name="setUp" finished-at="2021-04-18T17:37:19 IST" duration-ms="58853" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="orderStatusConfirmation()[pri:0, instance:com.symbion.shop.testcases.orderStatusTest@333291e3]" started-at="2021-04-18T17:37:19 IST" name="orderStatusConfirmation" finished-at="2021-04-18T17:38:17 IST" duration-ms="58457" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- orderStatusConfirmation -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:com.symbion.shop.testcases.orderStatusTest@333291e3]" started-at="2021-04-18T17:38:17 IST" name="teardown" finished-at="2021-04-18T17:38:17 IST" duration-ms="165" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- com.symbion.shop.testcases.orderStatusTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
